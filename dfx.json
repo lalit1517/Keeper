@@ -24,10 +24,10 @@
       "packtool": ""
     }
   },
-  "dfx": "0.9.3",
+  "dfx": "0.12.1",
   "networks": {
     "local": {
-      "bind": "127.0.0.1:8000",
+      "bind": "127.0.0.1:8001",
       "type": "ephemeral"
     }
   },
