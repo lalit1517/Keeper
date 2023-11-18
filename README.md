@@ -1,3 +1,5 @@
+Catch the live running project at https://xanx2-lyaaa-aaaal-qckia-cai.raw.icp0.io/
+
 # Keeper
 
 "Keeper" is a straightforward and efficient note-keeping website designed to provide users with a seamless platform to organize and store their notes. The site focuses on simplicity and user-friendliness, ensuring that users can easily keep track of their thoughts, ideas, and important information. The core functionality of the site revolves around adding and managing notes, and it doesn't overwhelm users with unnecessary features.
